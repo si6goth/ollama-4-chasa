@@ -1,0 +1,6 @@
+ollama_data/
+*.pyc
+__pycache__/
+.venv/
+venv/
+*.egg-info/
